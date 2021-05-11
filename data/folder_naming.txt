@@ -1,0 +1,4 @@
+the directories should be formated like trackname_configuration_racer_date
+ie.
+umc_east_br_4_23_21
+
