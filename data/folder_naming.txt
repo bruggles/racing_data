@@ -1,4 +1,4 @@
-the directories should be formated like trackname_configuration_racer_date
+the directories should be formated like trackname_configuration_racer_date underscores must be used and no spaces
 ie.
 umc_east_br_4_23_21
 
